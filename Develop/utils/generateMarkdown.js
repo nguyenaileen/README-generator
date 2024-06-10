@@ -86,7 +86,9 @@ ${responses.test_instruction}
 
 ## Questions
 
-${responses.questions}
+Visit my github profile at githib.com/${
+    responses.username
+  } or send me an email at ${responses.email} 
 
 ## License
 
