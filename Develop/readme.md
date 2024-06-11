@@ -1,8 +1,8 @@
-# read me generator
+# t
 
 ## Description
 
-a read me generator
+t
 
 ## Table of Contents
 
@@ -14,29 +14,24 @@ a read me generator
 
 ## Installation
 
-here you go
+tt
 
 ## Usage
 
-hi
+t
 
 ## Contribution Guidelines
 
-hihihihihi
+t
 
 ## Tests
 
-hihihihihi
+t
 
 ## Questions
 
-Visit my github profile at githib.com/nguyenaileen or send me an email at aileen@gmail.com 
+Visit my github profile at githib.com/t or send me an email at t 
 
 ## License
 
-## License
-
- undefined
-
- This project is licensed under the [](undefined) license.
-
+no license
