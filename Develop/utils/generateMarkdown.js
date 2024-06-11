@@ -31,10 +31,10 @@ function renderLicenseLink(responses) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(responses) {
-  const licenseBadge = renderLicenseBadge(link);
+  const licenseBadge = renderLicenseBadge(responses);
   const licenseLink = renderLicenseLink(responses);
   if (licenseBadge && licenseLink) {
-    return `This project is livensed by ${licenseBadge} [here](${licenseLink}).`;
+    return `This project is licensed by ${licenseBadge} node[here](${licenseLink}).`;
   } else {
     return "no license";
   }

@@ -1,8 +1,8 @@
-# t
+# read me generator
 
 ## Description
 
-t
+generates read me in command line
 
 ## Table of Contents
 
@@ -14,23 +14,23 @@ t
 
 ## Installation
 
-tt
+fork over on github
 
 ## Usage
 
-t
+node index.js 
 
 ## Contribution Guidelines
 
-t
+none
 
 ## Tests
 
-t
+none
 
 ## Questions
 
-Visit my github profile at githib.com/t or send me an email at t 
+Visit my github profile at githib.com/aileen or send me an email at e@gmail.com 
 
 ## License
 
