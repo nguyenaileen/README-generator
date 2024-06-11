@@ -92,7 +92,7 @@ Visit my github profile at githib.com/${
 
 ## License
 
-${renderLicenseSection(responses.license)}
+${renderbadge(responses.license)} ${renderLink(responses.license)}
 
 `;
 }

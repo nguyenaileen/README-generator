@@ -1,8 +1,8 @@
-# Here is my title
+# read me generator
 
 ## Description
 
-a read me app
+a read me generator
 
 ## Table of Contents
 
@@ -14,23 +14,23 @@ a read me app
 
 ## Installation
 
-npm i
+here you go
 
 ## Usage
 
-npmi
+hi
 
 ## Contribution Guidelines
 
-da
+hihihihihi
 
 ## Tests
 
-d
+hihihihihi
 
 ## Questions
 
-Visit my github profile at githib.com/aileennguyen or send me an email at aileenn@gmail.com 
+Visit my github profile at githib.com/nguyenaileen or send me an email at aileen@gmail.com 
 
 ## License
 
