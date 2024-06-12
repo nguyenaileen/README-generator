@@ -43,3 +43,5 @@ To use this project, git clone the repository and open the terminal in the devel
 Then follow the promopts to create your readme
 
 # Resources
+
+had help from a study group with my classmates!
