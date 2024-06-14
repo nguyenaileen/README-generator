@@ -62,11 +62,20 @@ ${responses.description}
 
 ## Table of Contents
 
-- [Installation]
-- [Usage]
-- [Contribution Guidelines]
-- [Tests]
-- [Questions]
+
+_[Description](#description)
+_[Demo](#demo)
+_[Features](#features)
+_[Installation](#installation)
+_[Usage](#usage)
+_[Resources](#resources)
+
+
+- [Installation] (#Installation)
+- [Usage](#Usage)
+- [Contribution Guidelines](#Contribution Guidelines)
+- [Tests](#Tests)
+- [Questions](#Questions)
 
 ## Installation
 
@@ -86,9 +95,8 @@ ${responses.test_instruction}
 
 ## Questions
 
-Visit my github profile at githib.com/${
-    responses.username
-  } or send me an email at ${responses.email} 
+Visit my github profile at https://githib.com/${responses.username}
+ or send me an email at ${responses.email} 
 
 ## License
 
