@@ -15,8 +15,6 @@ An app that lets you quickly and easily create a README file by using a command-
 
 # Demo
 
-[Screenshot of deployed application] (Assets/screenshot.png)
-
 Link to video: https://drive.google.com/drive/folders/1dILjfGw1kvPYRxhtDvlUZpHk4VT6vDTB?usp=drive_link
 
 # Features:
